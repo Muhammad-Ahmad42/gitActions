@@ -1,4 +1,6 @@
-def sum(num1,num2):
-  return num1+num2
+def my_function(fname):
+  print(fname + " Refsnes")
 
-print("error")
+my_function("Emil")
+my_function("Tobias")
+my_function("Linus")
